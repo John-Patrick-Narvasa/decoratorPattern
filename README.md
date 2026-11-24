@@ -18,3 +18,5 @@ Follow instructions. You are not allowed to insert other methods except what is 
 the diagram (setters and getters are allowed).
 
 ## UML
+<img width="1294" height="735" alt="image" src="https://github.com/user-attachments/assets/fe5f64cc-69bc-496d-9e1d-24a8393c57c9" />
+
