@@ -1,6 +1,6 @@
 package decoratorPattern;
 
-public class Main {
+public class Cimb {
 
 	public static void main(String[] args) {
 		
